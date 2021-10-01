@@ -16,7 +16,7 @@ Data means nothing without context, without a story around it and using a narrat
 Stories are effective in communicating meaning locked in data.
 
 ## From data to knowledge
-{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="From data to Knowledge" width="80%" %}
+{% include figure.html img="From_data_to_knowledge.jpg" alt="cat" caption="From data to Knowledge by Brent Dykes" width="80%" %}
 
 
 If a story is brought together by your data, visuals and narratives- let’s start by looking at your data.  
