@@ -69,7 +69,7 @@ What do they mean? Have a look at the video below!
 
 
 Are you inspired by looking at examples of beautiful visuals?
-[Next section](https://masamiy.github.io/content/3-Power-of-story.html) is about a narrative, which is another vital part of storytelling.
+[Next section](https://griffithunilibrary.github.io/data-storytelling/content/3-Power-of-story.html) is about a narrative, which is another vital part of storytelling.
 
 
 
