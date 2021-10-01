@@ -39,4 +39,4 @@ Do you think you would feel the same excitement if he presented his finding in a
 {% include figure.html img="Excel.png" alt="cat" caption="Gapminder row data" width="70%" %}
 
 
-We start exploring how we can start telling a story from the [next section](https://masamiy.github.io/content/1-Start_telling_story.html).
+We start exploring how we can start telling a story from the [next section](https://griffithunilibrary.github.io/data-storytelling/content/1-Start_telling_story.htmll).
