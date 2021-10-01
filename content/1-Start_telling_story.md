@@ -24,4 +24,4 @@ You have to get the actual message together before telling a story. [Power of st
 It can help you articulate the impact of your story. Do not be afraid of cluttering!
 
 
-Let's have a look at beautiful and not so beautiful visual examples in the [next section](https://masamiy.github.io/content/2-Visuals.html).
+Let's have a look at beautiful and not so beautiful visual examples in the [next section](https://griffithunilibrary.github.io/data-storytelling/content/2-Visuals.html).
