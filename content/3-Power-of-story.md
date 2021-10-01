@@ -49,4 +49,4 @@ A storyboard helps you:
 Figure out what medium to use for each part of the story
 {% include figure.html img="Storyboardmap.png" alt="Storyboarding and storymapping" caption="Storyboarding and storymapping example" width="85%" %}
 
-Now, it is time to [put things together](https://masamiy.github.io/content/4-Putting-things-together.html)!
+Now, it is time to [put things together](https://griffithunilibrary.github.io/data-storytelling/content/4-Putting-things-together.html)!
