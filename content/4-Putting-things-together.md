@@ -10,7 +10,7 @@ Every piece of information we learn is founded on something we have already lear
 
 ## Putting things together
 Do you know Dr Ignaz Semmelweis? 
-{% include figure.html img="DrSemmelweis.png" alt="Dr Semmelweis" caption="Dr Semmelweis" width="50%" %}
+{% include figure.html img="DrSemmelweis.png" alt="Dr Semmelweis" caption="Dr. Ignaz Semmelweis, aged 42, in 1860 copperplate engraving by Jenő Doby" width="50%" %}
 
 He was a medical doctor, who made a great discovery when he was working at Vienna Hospital. However, he did not communicate it well and had a sad ending of his career. A video below tells you in details together with lessons we can learn from him. He had a [Wikipedia entry](https://en.wikipedia.org/wiki/Ignaz_Semmelweis), too.
 {% include video-embed.html youtubeid="-hc7WR72CB4" caption="Dr Semmelweis story" %}
