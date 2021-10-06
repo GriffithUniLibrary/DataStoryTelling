@@ -2,7 +2,7 @@
 title: Visualisation
 nav: Visualisation
 ---
-{% include figure.html img="Data-Visualization.jpg" alt="DataToViz" caption="Visuals!" width="80%" %}
+{% include figure.html img="analytics-CC0.png" alt="DataToViz" caption="Visuals!" width="80%" %}
 We now explore some examples of visualisations. Be aware there are so many possibilities out there for visualising your data. Think beyond the standard line or bar graphs!
 
 ### Visualise your thesis
