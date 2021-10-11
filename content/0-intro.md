@@ -36,7 +36,7 @@ I want you to watch this 4 minutes' [Gapminder video](https://youtu.be/jbkSRLYSo
 
 
 Do you think you would feel the same excitement if he presented his finding in a data file, e.g., Microsoft Excel sheet?
-{% include figure.html img="Gapminder-data.png" alt="cat" caption="Income per person (GDP/capita, PPP$inflation-adjusted) from gapminder.org, free to use, CC-BY LICENSE" width="70%" %}
+{% include figure.html img="Gapminder-data.png" alt="cat" caption="Income per person (GDP/capita, PPP$inflation-adjusted) from gapminder.org, free to use, CC-BY LICENSE" width="80%" %}
 
 
 Let's start exploring how we can start telling a story from the [next section](https://griffithunilibrary.github.io/data-storytelling/content/1-Start_telling_story.html).
