@@ -27,6 +27,9 @@ For example, if you have someone that isn’t that interested in the environment
 The rising cost of insurance due to more natural disasters, caused by the change in weather cycles
 The financial benefit and potential profit of hosting electronic vehicle production in Australia or cheap maintenance on solar farms vs profit
 
+#### Interesting article about confirmation bias
+[A blog post by Farnan Street (Confirmation bias and the power of disconfirming evidence)](https://fs.blog/2017/05/confirmation-bias/) is an interesting to read. You will understand why some people do not see a point you want to make.
+
 #### Success story from Bono (U2)
 Did you know that Bono was a strong advocate of AIDS support? He reached out to the American evangelical community by framing the AIDS problem with christianity view and got their support. How? There is [a nice article](https://www.pbs.org/wgbh/pages/frontline/aids/interviews/bono.html) to read. 
 
