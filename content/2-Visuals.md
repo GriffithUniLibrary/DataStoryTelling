@@ -41,7 +41,7 @@ If you are thinking of developing some visuals with R / Python, they will give y
 
 ### ... and a little more
 You can explore and learn coding-free publication quality visualiation tools from [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/) online tutorial.
-{% include figure.html img="Data_visualisation_basics.png" alt="Data Visualisation Basics.png" caption="Data Visualisation Basics" width="70%" %} 
+{% include figure.html img="Data_visualisation_basics.png" alt="Data Visualisation Basics.png" caption="Data Visualisation Basics created by Griffith University Library 2021, CC BY 4.0" width="70%" %} 
   
 ## Make sure your point can be seen
 There are a wide array of amazing and visually stunning visualisations to choose from. But ask yourself, does this visualisations clearly relay the message that I want my audience to take away, or do they get confused or take a different message away.
