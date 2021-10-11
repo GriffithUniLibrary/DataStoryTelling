@@ -49,6 +49,6 @@ A storyboard helps you:
 - Define the parameters of a story within available resources and time
 - Organize and focus a story
 Figure out what medium to use for each part of the story
-{% include figure.html img="Storyboardmap.png" alt="Storyboarding and storymapping" caption="Storyboarding and storymapping example" width="85%" %}
+{% include figure.html img="Storyboard_template_example.svg.png" alt="Storyboarding and storymapping" caption="Storyboard template example by Whisternefet, CC BY-SA 3.0 <https://commons.wikimedia.org/wiki/File:Storyboard_template_example.svg>" width="85%" %}
 
 Now, it is time to [put things together](https://griffithunilibrary.github.io/data-storytelling/content/4-Putting-things-together.html)!
