@@ -17,8 +17,9 @@ We now explore some examples of visualisations. Be aware there are so many possi
 [Google Earth Timelapse](https://earthengine.google.com/timelapse/) is a global, zoomable video that lets you see how the Earth has changed.
 
 ### Interactive graphs
+There are many interesting interactive graphs available for you to 'feel'. Some of our pick are listed below. 
 - [New York Times' swing history graph](http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html) really impressess audience.
-{% include figure.html img="Swing_State.png" alt="cat" caption="Swing history" width="70%" %}
+<!---{% include figure.html img="Swing_State.png" alt="cat" caption="Swing history" width="70%" %}-->
 
 - [ABC 2020 US election story](https://www.abc.net.au/news/2020-11-02/us-election-trump-biden-states-polling/12822296) covers complex stories with data very clear way.
 {% include figure.html img="abc_Election.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %} 
@@ -42,7 +43,9 @@ If you are thinking of developing some visuals with R / Python, they will give y
 ### ... and a little more
 You can explore and learn coding-free publication quality visualiation tools from [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/) online tutorial.
 {% include figure.html img="Data_visualisation_basics.png" alt="Data Visualisation Basics.png" caption="Data Visualisation Basics created by Griffith University Library 2021, CC BY 4.0" width="70%" %} 
-  
+
+If you want to create one by yourself, [Northwestern University Knight Lab](https://knightlab.northwestern.edu/) provides free tools for that under *'Storytelling Tools'* section.
+
 ## Make sure your point can be seen
 There are a wide array of amazing and visually stunning visualisations to choose from. But ask yourself, does this visualisations clearly relay the message that I want my audience to take away, or do they get confused or take a different message away.
 If the audience cannot clearly understand the point you are trying to relay, then the visualisation has failed. 
