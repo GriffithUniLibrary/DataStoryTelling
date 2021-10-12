@@ -24,24 +24,30 @@ There are many interesting interactive graphs available for you to 'feel'. Some 
 {% endcomment %}
 
 - [ABC 2020 US election story](https://www.abc.net.au/news/2020-11-02/us-election-trump-biden-states-polling/12822296) covers complex stories with data very clear way.
+{% comment %}
 {% include figure.html img="abc_Election.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %} 
-
+{% endcomment %}
 - This [word cloud](https://shiny.rstudio.com/gallery/word-cloud.html) is developed with R Shiny.
+{% comment %}
 {% include figure.html img="Word_Cloud.png" alt="cat" caption="Shakespeare's favourite words are...?" width="70%" %}
-
+{% endcomment %}
 - [Brisbane floods photo comparison](http://www.abc.net.au/news/specials/qld-floods/) presents how Brisbane was affected by 2011 floods by comparing photos. You can create this photo comparison by using a free tool introduced in HERE. 
   
 ### For R / Python users
 If you are thinking of developing some visuals with R / Python, they will give you an idea together with coding :)
 - [DataVizCatalogue](https://datavizcatalogue.com/)
+{% comment %}
 {% include figure.html img="DataVizCatalogue.png" alt="DataVizCatalogue" caption="DataVizZatalogue.com" width="50%" %}
 - [from Data to Viz](https://www.data-to-viz.com/)
+{% endcomment %}
+{% comment %}
 {% include figure.html img="DataToViz.png" alt="DataToViz" caption="dada-to-viz.com" width="60%" %}
-
+{% endcomment %}
 ### Inspired by examples
 [Data vis Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
+{% comment %}
 {% include figure.html img="Data_Viz_Project.png" alt="DataToViz" caption="datavizproject.com" width="50%" %} 
-
+{% endcomment %}
 ### ... and a little more
 You can explore and learn coding-free publication quality visualiation tools from [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/) online tutorial.
 {% include figure.html img="Data_visualisation_basics.png" alt="Data Visualisation Basics.png" caption="Data Visualisation Basics created by Griffith University Library 2021, CC BY 4.0" width="70%" %} 
