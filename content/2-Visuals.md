@@ -19,7 +19,9 @@ We now explore some examples of visualisations. Be aware there are so many possi
 ### Interactive graphs
 There are many interesting interactive graphs available for you to 'feel'. Some of our pick are listed below. 
 - [New York Times' swing history graph](http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html) really impressess audience.
-{% {% include figure.html img="Swing_State.png" alt="cat" caption="Swing history" width="70%" %} %}
+{% comment %}
+{% include figure.html img="Swing_State.png" alt="cat" caption="Swing history" width="70%" %} %}
+{% endcomment %}
 
 - [ABC 2020 US election story](https://www.abc.net.au/news/2020-11-02/us-election-trump-biden-states-polling/12822296) covers complex stories with data very clear way.
 {% include figure.html img="abc_Election.png" alt="cat" caption="ABC 2020 US election data storytelling" width="70%" %} 
