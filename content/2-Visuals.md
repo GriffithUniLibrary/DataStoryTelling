@@ -44,7 +44,7 @@ If you are thinking of developing some visuals with R / Python, they will give y
 {% include figure.html img="DataToViz.png" alt="DataToViz" caption="dada-to-viz.com" width="60%" %}
 {% endcomment %}
 ### Inspired by examples
-[Data vis Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
+- [Data vis Project](https://datavizproject.com/) gives you sooo many ideas about graph designs.
 {% comment %}
 {% include figure.html img="Data_Viz_Project.png" alt="DataToViz" caption="datavizproject.com" width="50%" %} 
 {% endcomment %}
