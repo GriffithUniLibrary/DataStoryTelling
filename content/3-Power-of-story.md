@@ -13,8 +13,9 @@ Facts and evidence rarely help as people tend to reject any information or facts
 
 ### Tell a story for a wider and non-specialised audience
 You can see beutiful summaries of scientific findings in [Useful Science](https://www.usefulscience.org/). The aim of the site is to make science useful in daily life by telling  a new discovery in 5 seconds' reading to wider and non-specifice audience.
+{% comment %}
 {% include figure.html img="Useful_Science.png" alt="Storyboarding" caption="usefulscience.org" width="75%" %}
-
+{% endcomment %}
 
 ### Biases to be aware of - Confirmation bias
 It is a challenge to interpret information in an unbiased way as we tend to interpret information as confirmation of our existing beliefs and/or ideas. It is called "confirmation bias". How can we convince others with your story then?
