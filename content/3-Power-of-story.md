@@ -11,6 +11,8 @@ How do you develop your story? There are a couple of hints:
 ## Frame your ideas with your audience's view
 Facts and evidence rarely help as people tend to reject any information or facts that counter their beliefs. So, data has to be in a context. People remember how a story makes them feel. It is important to know your audience and frame your idea to align with their values/views.
 
+But what does 'knowing your audience' mean? [What it means to 'know your audience' when communicating about science](https://theconversation.com/what-it-means-to-know-your-audience-when-communicating-about-science-111147) can give you an idea.
+
 ### Tell a story for a wider and non-specialised audience
 You can see beutiful summaries of scientific findings in [Useful Science](https://www.usefulscience.org/). The aim of the site is to make science useful in daily life by telling  a new discovery in 5 seconds' reading to wider and non-specifice audience.
 {% comment %}
