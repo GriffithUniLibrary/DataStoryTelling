@@ -18,7 +18,7 @@ Building a narrative around your data can help you focus on what you really want
 
 ## What you need to do
 #### Storyboard/storymap your ideas
-You have to get the actual message together before telling a story. [Power of story](https://masamiy.github.io/content/3-Power-of-story.html) section covers more detail about this technique. 
+You have to get the actual message together before telling a story. [Power of story](https://griffithunilibrary.github.io/data-storytelling/content/3-Power-of-story.html) section covers more detail about this technique. 
 
 #### Refine by de-cluttering
 It can help you articulate the impact of your story. Do not be afraid of cluttering!
