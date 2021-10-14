@@ -44,7 +44,7 @@ nav: Resources
 | **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
 | BBC | [Hans Rosling's 200 countries, 200 years, 4 minutes - The joy of stats - BBC Four](https://www.youtube.com/watch?v=jbkSRLYSojo) | YouTube | 27/11/2010 |
 | UTS Library | [UTS VYT 2019 Winner - Fantastic metals and where to phyt them](https://youtu.be/Am-AvhPl0jA) | YouTube | 4/09/2019 |
-| GPhase | [Bean Time-Lapse - 25 days | Soil cross section])(https://youtu.be/w77zPAtVTuI) | YouTube | 8/05/2018 |
+| GPhase | [Bean Time-Lapse - 25 days | Soil cross section](https://youtu.be/w77zPAtVTuI) | YouTube | 8/05/2018 |
 
 ### Websites
 
