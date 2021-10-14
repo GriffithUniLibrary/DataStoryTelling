@@ -29,8 +29,8 @@ nav: Resources
 
 ## References
 ### Data
+
 | **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
-| Brent Dykes | [Data Science Storytelling](https://commons.wikimedia.org/wiki/File:Data_Science_storytelling.jpg) | Wikimedia Commons | 31/03/2016 |
 
 ### Images
 
@@ -40,12 +40,14 @@ nav: Resources
 | Eugen Doby | [Ignaz Semmenwies](https://commons.wikimedia.org/wiki/Ignaz_Semmelweis#/media/File:Ignaz_Semmelweis.jpg) | Wikimedia Commons | 1850, Scanned by Michael F. Schönitzer in 2009|
 
 ### Videos 
+
 | **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
 | BBC | [Hans Rosling's 200 countries, 200 years, 4 minutes - The joy of stats - BBC Four](https://www.youtube.com/watch?v=jbkSRLYSojo) | YouTube | 27/11/2010 |
 | UTS Library | [UTS VYT 2019 Winner - Fantastic metals and where to phyt them](https://youtu.be/Am-AvhPl0jA) | YouTube | 4/09/2019 |
 | GPhase | [Bean Time-Lapse - 25 days | Soil cross section])(https://youtu.be/w77zPAtVTuI) | YouTube | 8/05/2018 |
 
 ### Websites
+
 | **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
 |John C. Besley, Anthony Dudo | [What it means to 'know your audience' when communicating about science](https://theconversation.com/what-it-means-to-know-your-audience-when-communicating-about-science-111147) | The Conversation | 16/04/2019 | 
 | Hans Rosling | [Gapminder tool](https://www.gapminder.org/) | Gapminder | |
