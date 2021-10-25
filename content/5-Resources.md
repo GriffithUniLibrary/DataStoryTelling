@@ -24,4 +24,9 @@ nav: Resources
 | Eugen Doby | [Ignaz Semmenwies](https://commons.wikimedia.org/wiki/Ignaz_Semmelweis#/media/File:Ignaz_Semmelweis.jpg) | [Public Domain](https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America) | Scanned by Michael F. Schönitzer|
 | Whisternefet | [A sample storyboard template](https://commons.wikimedia.org/wiki/File:Storyboard_template_example.svg) | Wikimedia Commons | 11/08/2013|
 
+<br />
 
+### Data we used
+
+| **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
+| The Carpentries | [Gapminder data](https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv) | The Carpentries | Retrieved 2021 |
