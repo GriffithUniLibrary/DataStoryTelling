@@ -5,7 +5,7 @@ nav: Resources
    
 ### Pages we used to learn about storytelling
 
-| **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
+| **Author** |   **Title**   | **Publisher**  |  **Publication date**  |  
 | Brent Dykes | [Data Storytelling: The Essential Data Science Skill Everyone Needs](https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/#5564188952ad) | Forbs | 31/03/2016 |
 | Brent Dykes | [Adventures In Data Storytelling: Three Key Traps To Avoid](https://www.forbes.com/sites/brentdykes/2017/04/25/adventures-in-data-storytelling-three-key-traps-to-avoid/#7ac575783234) | Forbs | 25/04/2017 |
 | Seth Grimes | [Breatkthrough Analysis: Make Your Data Tell a Story](http://www.informationweek.com/software/information-management/breakthrough-analysis-make-your-data-tell-a-story/d/d-id/1049675?) | Information Week | 08/12/2006 |  
