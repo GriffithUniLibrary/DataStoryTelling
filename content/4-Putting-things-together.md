@@ -47,7 +47,7 @@ That's it folks! We hope you enjoy telling your story about your research with d
 
 ----
 
-Was this helpful? Let us know.
+##### Was this tutorial helpful? Let us know.
 
 <br />
 {% include button.html text="Complete this quick survey" link="https://prodsurvey.rcs.griffith.edu.au/prodls200/index.php/589544?FeedbackSource=Data-storytelling-tutorial-griffithunilibrary.github.io&Discipline=Research&Client=&newtest=Y" color="info" %}
