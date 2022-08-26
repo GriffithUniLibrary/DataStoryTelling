@@ -32,4 +32,4 @@ nav: Resources
 | The Carpentries | [Gapminder data](https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv) | The Carpentries | Retrieved 2021 |
 
 Was this helpful? Let us know.
-{% include button.md text="Complete this quick survey" link="https://prodsurvey.rcs.griffith.edu.au/prodls200/index.php/589544?FeedbackSource=Data-storytelling-tutorial-griffithunilibrary.github.io&Discipline=Research&Client=&newtest=Y" color="info" %}
+{% include button.html text="Complete this quick survey" link="https://prodsurvey.rcs.griffith.edu.au/prodls200/index.php/589544?FeedbackSource=Data-storytelling-tutorial-griffithunilibrary.github.io&Discipline=Research&Client=&newtest=Y" color="info" %}
