@@ -44,3 +44,10 @@ Things you may want to think are:
 ## You are done!
 {% include figure.html img="Well_Done_CC0.jpg" alt="Dr Semmelweis" caption="Well done!" width="80%" %}
 That's it folks! We hope you enjoy telling your story about your research with data :)
+
+----
+
+Was this helpful? Let us know.
+
+<br />
+{% include button.html text="Complete this quick survey" link="https://prodsurvey.rcs.griffith.edu.au/prodls200/index.php/589544?FeedbackSource=Data-storytelling-tutorial-griffithunilibrary.github.io&Discipline=Research&Client=&newtest=Y" color="info" %}
