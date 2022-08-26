@@ -17,7 +17,7 @@ nav: Resources
     
 ### Images we used
 
-| **Authour** |   **Title**   | **Publisher**  |  **Publication date**  |  
+| **Author** |   **Title**   | **Publisher**  |  **Publication date**  |  
 | Brent Dykes | [Data science storytelling](https://commons.wikimedia.org/wiki/File:Data_Science_storytelling.jpg) | Wikimedia Commons | 31/03/2016 |
 | Longlivetheux | [DIKW Pyramid: Data, information, knowledge, and wisdom](https://commons.wikimedia.org/w/index.php?curid=37705247) | Wikimedia Commons | 05/01/2015 |
 | Gapminder.org | [GDP/capita,yearly growth](https://www.gapminder.org/data/) | Gapminder.org | Retrieved 25/10/2011 |
