@@ -6,7 +6,7 @@ This online self-paced tutorial teaches data storytelling skills including combi
 
 This tutorial is approx. 1.5 hours to complete including activities.
 
-All materials in this lesson are licenced  [CC BY](https://creativecommons.org/licenses/by/4.0/).
+All materials in this lesson are licenced  [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).
 
 [Workshop-template-b](https://github.com/evanwill/workshop-template-b) by [evanwill](https://github.com/evanwill) is built using [Jekyll](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/). The site is styled using Bootstrap with FontAwesome icons.
 
