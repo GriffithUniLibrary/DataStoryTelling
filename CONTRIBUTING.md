@@ -1,5 +1,5 @@
-Masami Yamaguchi
-Julie Somers
-Kylie Poulton
-Amanda Miotto
+Masami Yamaguchi,
+Julie Somers,
+Kylie Poulton,
+Amanda Miotto,
 Julie Toohey
